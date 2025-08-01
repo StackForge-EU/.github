@@ -1,1 +1,1 @@
-# StackForge
+![StackForge](./cover.jpg)
